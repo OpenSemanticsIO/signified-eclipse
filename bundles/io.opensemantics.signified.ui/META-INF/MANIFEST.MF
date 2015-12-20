@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Signified UI
+Bundle-SymbolicName: io.opensemantics.signified.ui
+Bundle-Version: 0.0.1.qualifier
+Bundle-Activator: io.opensemantics.signified.ui.Activator
+Bundle-Vendor: OpenSemantics.io
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ io.opensemantics.signifier.api
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
